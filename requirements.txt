@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+ipykernel
+torch
+seaborn
+statsmodels
+scikit-learn
+requests
+torchvision
